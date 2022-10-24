@@ -2,6 +2,8 @@
 
 > This PDF reader has audio, good animation for flipping or just use the buttton for the next page.
 
+The preview of the Class book can be found here [Class book]() 
+
 ### Tools used
 - Adobe Photoshop.
 - Text Editor :- Sublime text and Visual Studio Code. 
@@ -38,13 +40,13 @@
    - git init
    - git add .
    - git commit -m "meaningful message"
-   - git remote add origin https://github.com/lailahgrant/online-pdf-reader.git
+   - git remote add origin https://github.com/lailahgrant/school-online-book.git
    - git push -u origin master
 
 #### After adding your local project to Github. You will need a few steps to add new edits or deletes or just to keep track of what you're working on 
 - Below are the steps you will need :
   - git add .
-  - git commit -m :meaningful message"
+  - git commit -m "meaningful message"
   - git push -u origin master
   
 
