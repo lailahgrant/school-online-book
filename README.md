@@ -2,7 +2,7 @@
 
 > This PDF reader has audio, good animation for flipping or just use the buttton for the next page.
 
-The preview of the Class book can be found here [Class book](https://lugard-genius-class-year-book.netlify.app/) 
+The preview of the Class book can be found here [Class book](https://lugard-genius-year-book.netlify.app/) 
 
 ### Tools used
 - Adobe Photoshop.
